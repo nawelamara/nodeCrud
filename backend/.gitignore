@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Env variables
+.env
+
+# TypeScript build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
